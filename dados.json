@@ -1,17 +1,17 @@
 {
   "tanques":[
     {
-      "tipo": "TANQUE",
+      "tipo": "TANQUE 1",
       "produto": "OLEO DIESEL COMUM",
       "situacao": "EM OPERACAO"
     },
     {
-      "tipo": "TANQUE",
+      "tipo": "TANQUE 2",
       "produto": "OLEO DIESEL B500",
       "situacao": "EM OPERACAO"
     },
     {
-      "tipo": "TANQUE",
+      "tipo": "TANQUE 3",
       "produto": "OLEO DIESEL S10",
       "situacao": "EM OPERACAO"
     }

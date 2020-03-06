@@ -16,10 +16,9 @@ namespace MyFirstConsole
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("This is my First Console App \n Digite seu nome");
-           // string resposta = Console.ReadLine();
-           // Console.WriteLine("Hello,"+ resposta);
-            var json = File.ReadAllText("dados.json");
+            // Por padrao o Programa vai ler o arquivo que estah na pasta /bin/Debug/netcoreapp3.1/
+            // para corrigir, basta sair das 3 pastas como abaixo:
+            var json = File.ReadAllText("../../../dados.json");
             
  
             // JavaScriptSerializer serialized = new JavaScriptSerializer();
