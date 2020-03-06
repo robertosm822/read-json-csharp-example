@@ -1,0 +1,15 @@
+{
+  
+  "tanques" :[
+    {
+      "tipo": "TANQUE1",
+      "produto": "OLEO DIESEL COMUM",
+      "situacao": "EM OPERACAO"
+    },
+    {
+      "tipo": "TANQUE2",
+      "produto": "OLEO DIESEL COMUM S10",
+      "situacao": "EM OPERACAO"
+    }
+  ]
+}
